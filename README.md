@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Kochipek
+- :rainbow: Hi, I’m @Kochipek
 - 🌱 I’m currently learning JavaScript
 
