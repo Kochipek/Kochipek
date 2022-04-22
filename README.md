@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ipek</h1>
+<h1 align="center">Hi 🌈, I'm Ipek</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kochipek&label=Profile%20views&color=0e75b6&style=flat" alt="kochipek" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kochipek" alt="kochipek" /></a> </p>
