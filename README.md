@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/Ipkecodes" target="blank"><img src="https://img.shields.io/twitter/follow/@ipkecodes?logo=twitter&style=for-the-badge" alt="@ipkecodes" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently working on **Todo List with JavaScript**
 
 - 📫 How to reach me **ipekkochisarli@gmail.com**
 
