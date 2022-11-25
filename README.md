@@ -5,7 +5,7 @@
 
 
 - 🌱 I’m currently learning **ReactJS** && OOP with JAVA
-
+- 🏫 I’m a software engineering student
 - 📫 How to reach me **ipekkochisarli@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
