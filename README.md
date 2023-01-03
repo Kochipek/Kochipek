@@ -20,7 +20,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kochipek&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kochipek&icon=9&color=3)](https://visitcount.itsvg.in)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kochipek)](https://github.com/kochipek/github-readme-stats)
 
