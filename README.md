@@ -5,8 +5,6 @@
 - 🏫 I’m a software engineering student
 - 📫 How to reach me **ipekkochisarli@gmail.com**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kochipek&theme=tokyonight)
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ipek-kochisarli/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ipkecodes) 
