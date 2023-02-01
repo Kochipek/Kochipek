@@ -2,6 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kochipek&label=Profile%20views&color=0e75b6&style=flat" alt="kochipek" /> </p>
 
 # 💫 About Me:
+- 🤓 I'm currently learning ReactJS
 - 🏫 I’m a software engineering student
 - 📫 How to reach me **ipekkochisarli@gmail.com**
 
