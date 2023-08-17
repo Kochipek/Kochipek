@@ -2,6 +2,7 @@
 
 # 💫 About Me:
 - 🏫 I’m a software engineering student
+- 👾 I'm currently learning Android Developement with Kotlin
 - 📫 How to reach me **ipekkochisarli@gmail.com**  
 
 
