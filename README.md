@@ -1,16 +1,6 @@
 <h1 align="center">Hi 🌈, I'm Ipek</h1>
 
-### Hi_there_👋.kt
-
-```kotlin
-val whoAmI = SelfInfo(
-        currentlyLearning = arrayOf("Mobile Developement"),
-        edu = "softwareEngineer",
-        howToReachMe = "ipekkochisarli@gmail.com",
-        badHabbit = "Linux distro-hopper",
-        funFact = "Debugging: Being the detective in a crime movie where you are also the murderer"
-    )
-```
+I develop apps using Kotlin and Java for native Android development, and React Native with TypeScript for cross-platform development.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
