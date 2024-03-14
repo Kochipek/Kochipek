@@ -1,6 +1,6 @@
 <h1 align="center">Hi 🌈, I'm Ipek</h1>
 
-I develop apps using Kotlin and Java for native Android development, and React Native with TypeScript for cross-platform development.
+I develop apps using Kotlin and Java for native Android development, and React Native for cross-platform development.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
