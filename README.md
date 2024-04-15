@@ -1,7 +1,5 @@
 <h1 align="center">Hi 🌈, I'm Ipek</h1>
 
-I develop apps using Kotlin and Java for native Android development, and React Native for cross-platform development.
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/kochipek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kochipek" height="30" width="40" /></a>
