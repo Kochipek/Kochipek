@@ -28,7 +28,6 @@
 <div align="center">
 <a href="https://github.com/kochipek">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kochipek&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kochipek&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kochipek&theme=2077" height="180em" />
 </div>
 
