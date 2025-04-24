@@ -1,11 +1,8 @@
-<h1 align="center">Hi 🌈, I'm Ipek</h1>
+<h1 align="center">Hi, I'm Ipek</h1>
 <h3 align="center">Jr.Android Developer | Software Engineering Student</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kochipek&label=Profile%20views&color=0e75b6&style=flat" alt="kochipek" /> </p>
 
-- 🌱 I’m currently learning **Android Developement with Kotlin 💜**
-
-
-- 📝 I regularly write articles on **https://medium.com/@Kochipek**
+I’m currently learning **Android Developement with Kotlin**
 
 <div> <a href="https://www.linkedin.com/in/ipek-kochisarli" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
