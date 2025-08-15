@@ -20,6 +20,18 @@ I’m currently learning **Jetpack Compose**
 </p>
 
 
+</div><h3 align="left">Some of My Latest Works:</h3>
+
+</div><h5 align="left">Movie Archive:</h5>
+<img width="1942" height="800" alt="image" src="https://github.com/user-attachments/assets/af61487c-8e09-4cc1-b058-a718ac63d2f6" />
+
+</div><h5 align="left">Crypto Tracker:</h5>
+
+<img width="1906" height="988" alt="image" src="https://github.com/user-attachments/assets/ec0f1197-d5ae-4268-b4fe-9bbc5c14aae9" />
+
+
+
+
 
 <div align="center">
 <a href="https://github.com/kochipek">
