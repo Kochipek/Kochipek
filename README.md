@@ -2,8 +2,6 @@
 <h3 align="center">Android Developer | Software Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kochipek&label=Profile%20views&color=0e75b6&style=flat" alt="kochipek" /> </p>
 
-I’m currently learning **Jetpack Compose**
-
 <div> <a href="https://www.linkedin.com/in/ipek-kochisarli" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
