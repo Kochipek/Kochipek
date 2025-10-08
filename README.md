@@ -1,39 +1,56 @@
-<h1 align="center">Hi, I'm Ipek</h1>
-<h3 align="center">Android Developer | Software Engineer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kochipek&label=Profile%20views&color=0e75b6&style=flat" alt="kochipek" /> </p>
+<h1 align="center">Hi, I'm Ipek 👋</h1>
+<h3 align="center">Software Data Engineer</h3>
 
-<div> <a href="https://www.linkedin.com/in/ipek-kochisarli" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ipek-kochisarli" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="ipek-kochisarli" height="30" width="40" /></a><a href="https://www.hackerearth.com/@ipekkochisarli" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerearth.svg" alt="@ipekkochisarli" height="30" width="40" /></a><a href="https://stackoverflow.com/users/17727694/kochipek" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/stack-overflow.svg" alt="17727694/kochipek" height="30" width="40" /></a><a href="https://medium.com/@kochipek" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="@kochipek" height="30" width="40" /></a></p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=kochipek&label=Profile%20views&color=0e75b6&style=flat" alt="kochipek" /> 
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/ipek-kochisarli" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+</div>
+
+---
+
+### 🧠 About Me  
+I’m a **data-focused software engineer** passionate about **data analysis, visualization, and cloud-based analytics**.  
+I love transforming raw data into actionable insights using **Python, SQL, and Cloud tools**.  
+My main focus areas are **data cleaning, ETL pipelines, statistical modeling, and cloud integration.**
+
+---
+
+### 🌐 Connect with me:
 <p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/BackendService/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/sqlite-icon.svg" alt="Sqlite" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+<a href="https://linkedin.com/in/ipek-kochisarli" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="ipek-kochisarli" height="30" width="40" />
+</a>
+<a href="https://www.hackerearth.com/@ipekkochisarli" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerearth.svg" alt="@ipekkochisarli" height="30" width="40" />
+</a>
+<a href="https://stackoverflow.com/users/17727694/kochipek" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/stack-overflow.svg" alt="17727694/kochipek" height="30" width="40" />
+</a>
+<a href="https://medium.com/@kochipek" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="@kochipek" height="30" width="40" />
+</a>
+</p>
+
+---
+
+### 🧩 Languages and Tools
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
 </p>
 
 
-</div><h3 align="left">Some of My Latest Works:</h3>
-
-</div><h5 align="left">Movie Archive:</h5>
-<img width="1942" height="800" alt="image" src="https://github.com/user-attachments/assets/af61487c-8e09-4cc1-b058-a718ac63d2f6" />
-
-</div><h5 align="left">Crypto Tracker:</h5>
-
-<img width="1906" height="988" alt="image" src="https://github.com/user-attachments/assets/ec0f1197-d5ae-4268-b4fe-9bbc5c14aae9" />
-
-
-
-
-
-<div align="center">
-<a href="https://github.com/kochipek">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kochipek&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kochipek&theme=2077" height="180em" />
-</div>
-
+---
