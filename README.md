@@ -1,22 +1,11 @@
 <h1 align="center">Hi, I'm Ipek 👋</h1>
 <h3 align="center">Software Engineer</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=kochipek&label=Profile%20views&color=0e75b6&style=flat" alt="kochipek" /> 
-</p>
-
 <div align="center"> 
   <a href="https://www.linkedin.com/in/ipek-kochisarli" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
-
----
-
-### 🧠 About Me  
-I’m a **data-focused software engineer** passionate about **data analysis, visualization, and cloud-based analytics**.  
-I love transforming raw data into actionable insights using **Python, SQL, and Cloud tools**.  
-My main focus areas are **data cleaning, ETL pipelines, statistical modeling, and cloud integration.**
 
 ---
 
@@ -39,6 +28,7 @@ My main focus areas are **data cleaning, ETL pipelines, statistical modeling, an
 ---
 
 ### 🧩 Languages and Tools
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" alt="Gradle" width="40" height="40"/> </p>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
