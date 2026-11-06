@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ipek 👋</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Data-ML Engineer, Msc Student</h3>
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/ipek-kochisarli" target="_blank">
