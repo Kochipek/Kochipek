@@ -1,11 +1,18 @@
 <h1 align="center">Hi, I'm Ipek 👋</h1>
-<h3 align="center">Data-ML Engineer, Msc Student</h3>
+<h3 align="center">Data-ML Engineer & MSc Student</h3>
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/ipek-kochisarli" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
+
+---
+
+### About Me
+Hi! I'm an engineer working on data science and machine learning.
+
+What I love most is taking AI into real-life fields like healthcare, chemistry, process engineering, and environmental projects. Working on versatile problems across different disciplines is what keeps me curious and excited.
 
 ---
 
